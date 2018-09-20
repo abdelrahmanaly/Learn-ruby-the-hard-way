@@ -1,5 +1,4 @@
 input_file=ARGV.first #accepts path for the script
-
 def print_all(f)
   puts f.read #reads note to self you have to manually reset the line that its at
 end
