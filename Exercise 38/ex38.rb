@@ -33,7 +33,7 @@ end
 
 #put every city in state
 puts '-' * 10
-states.each do |abbrev,city|
+cities.each do |abbrev,city|
   puts "#{abbrev} has the city #{city}"
 end
 
