@@ -1,6 +1,6 @@
 states={
   'Oregon'=> 'OR',
-  'FLorida'=> 'FL',
+  'Florida'=> 'FL',
   'California'=>'CA',
   'New York'=>'NY',
   'Michigan'=> 'MI'
@@ -22,7 +22,7 @@ puts "OR State has: #{cities['OR']}"
 
 #puts some states
 puts '-' * 10
-puts "Michigan's abbreviation is: #{states['michigan']}"
+puts "Michigan's abbreviation is: #{states['Michigan']}"
 puts "Florida's abbreviation is: #{states['Florida']}"
 
 #do it by using the state then cities dict
